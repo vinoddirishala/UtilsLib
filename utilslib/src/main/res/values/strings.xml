@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sample Library</string>
+    <string name="please_do_not_remove">Please do not remvoe the below contentfrom body as we use this data to identify what are the issues you are getting</string>
+</resources>
